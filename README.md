@@ -1,0 +1,2 @@
+# Image-classification-using-EfficientNet
+Have you ever wondered how a computer or a machine can differentiate between a man and a woman or a flower and an animal? Well, it’s easy for us humans because we can understand the differences in their sizes and shapes and their particular properties, but a computer doesn’t understand or see things as we do. So, we have to train them.Here, in this notebook, I am going to work on Image Classification using the CIFAR100 dataset using Deep Learning Algorithms. For this task, I will use transfer learning.
